@@ -3,7 +3,7 @@
 
 
 ## Technologies and tools I use.
-![My Skills](https://skills.thijs.gg/icons?i=html,css,js,php,mysql,cs)
+![My Skills](https://skills.thijs.gg/icons?i=html,css,js,php,mysql,cs,dotnet)
 
 ##Contact:
 
