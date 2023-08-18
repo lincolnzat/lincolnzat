@@ -6,7 +6,6 @@
 ![My Skills](https://skills.thijs.gg/icons?i=html,css,js,php,mysql,cs,dotnet,bootstrap,figma,git)
 
 ##Technologies I am learning.
-
 ![My Skills](https://skills.thijs.gg/icons?i=symfony,react)
 
 ##Contact:
