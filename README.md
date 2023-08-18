@@ -1,2 +1,2 @@
-#Hi! I'm Lincoln.
-#Welcome to my profile!
+Hi! I'm Lincoln.
+Welcome to my profile!
