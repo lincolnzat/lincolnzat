@@ -1,9 +1,9 @@
-## Hi! I'm Lincoln. :smiley:
+,## Hi! I'm Lincoln. :smiley:
 ##Welcome to my profile! :relaxed:
 
 
 ## Technologies and tools I use.
-![My Skills](https://skills.thijs.gg/icons?i=html,css,js,php,mysql,cs,dotnet)
+![My Skills](https://skills.thijs.gg/icons?i=html,css,js,php,mysql,cs,dotnet,ionic,bootstrap,figma,git)
 
 ##Contact:
 
