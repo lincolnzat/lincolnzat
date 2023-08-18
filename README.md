@@ -3,7 +3,10 @@
 
 
 ## Technologies and tools I use.
-![My Skills](https://skills.thijs.gg/icons?i=html,css,js,php,mysql,cs,dotnet,ionic,bootstrap,figma,git)
+![My Skills](https://skills.thijs.gg/icons?i=html,css,js,php,mysql,cs,dotnet,bootstrap,figma,git)
+
+##Technologies I am learning.
+![My Skills](https://skills.thijs.gg/icons?i=symfony,react)
 
 ##Contact:
 
