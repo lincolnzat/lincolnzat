@@ -1,6 +1,5 @@
 ## Hi! I'm Lincoln. :smiley:
-
-## Welcome to my profile! :relaxed:
+Welcome to my profile! :relaxed:
 
 
 ## Technologies and tools I use.
