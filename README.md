@@ -7,14 +7,14 @@ I'm constantly improving and developing my skills.
 ## Technologies and tools I use.
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,php,mysql,html,css,js,bootstrap,react,figma" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,mysql,html,css,js,bootstrap,react,figma" />
   </a>
 </p>
 
 ## Contact:
-<div>
-  <p align="center>
-<a href="https://www.linkedin.com/in/lincoln-vinícius/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/lincoln-vinícius/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
+
