@@ -6,7 +6,9 @@ I'm constantly improving and developing my skills.
 
 ## Technologies and tools I use.
 <p align="center">
-![My Skills](https://skills.thijs.gg/icons?i=cs,dotnet,php,mysql,html,css,js,bootstrap,figma,react)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,php,mysql,html,css,js,bootstrap,react,figma" />
+  </a>
 </p>
 
 ## Contact:
