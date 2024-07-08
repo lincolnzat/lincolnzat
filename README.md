@@ -7,7 +7,7 @@ I'm constantly improving and developing my skills.
 ## Technologies and tools I use.
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,mysql,html,css,js,bootstrap,react,figma" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,mysql,html,css,js,bootstrap,react,figma&perline=4" />
   </a>
 </p>
 
