@@ -8,7 +8,7 @@ Sou técnico em desenvolvimento de sistemas formado pela ETEC.
 <p>
  <img src=https://img.shields.io/badge/C%23-239120?style=fot-the-badge&logo=c-sharp&logoColor=white/>
  <img src= https://img.shields.io/badge/.NET-5C2D91?style=fot-the-badge&logo=.net&logoColor=white/>
-  <img src=https://img.shields.io/badge/PHP-777BB4?style=fot-the-badge&logo=php&logoColor=white/>
+  <img src=https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white/>
   <img src=https://img.shields.io/badge/Laravel-FF2D20?style=fot-the-badge&logo=laravel&logoColor=white/>
  <img src= https://img.shields.io/badge/MySQL-00000F?style=fot-the-badge&logo=mysql&logoColor=white/>
  <img src= https://img.shields.io/badge/HTML5-E34F26?style=fot-the-badge&logo=html5&logoColor=white/>
