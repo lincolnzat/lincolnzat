@@ -22,8 +22,8 @@ Sou técnico em desenvolvimento de sistemas formado pela ETEC.
 ## Ferramentas
 <p>
  <img src=https://img.shields.io/badge/Adobe%20Photoshop-gray?style=fot-the-badge&logo=Adobe%20Photoshop&logoColor=black/>
- <img src= https://img.shields.io/badge/Figma-gray?style=fot-the-badge&logo=figma&logoColor=white/>
  <img src=https://img.shields.io/badge/Adobe%20Illustrator-gray?style=fot-the-badge&logo=adobe%20illustrator&logoColor=white/>
+ <img src= https://img.shields.io/badge/Figma-gray?style=fot-the-badge&logo=figma&logoColor=white/>
  
 
  </p>
