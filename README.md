@@ -31,7 +31,7 @@ Sou técnico em desenvolvimento de sistemas formado pela ETEC.
 ## Contato:
 <p>
   <a href="https://www.linkedin.com/in/lincoln-vinícius/">
-     <img src=https://img.shields.io/badge/LinkedIn-gray?style=fot-the-badge&logo=linkedin&logoColor=white/>
+     <img src=https://img.shields.io/badge/LinkedIn-black?style=fot-the-badge&logo=linkedin&logoColor=white/>
   </a>
 </p>
 
