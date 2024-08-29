@@ -1,7 +1,7 @@
 ## Olá! :smiley:
 Bem-vindo(a) ao meu perfil! :relaxed:
 
-Sou técnico em desenvolvimento de sistemas formado pela ETEC.
+Sou técnico em desenvolvimento de sistemas formado pela ETEC e estudante de Análise e Desenvolvimento de Sistemas na FATEC.
 
 
 ## Linguagens e Frameworks
