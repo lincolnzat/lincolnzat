@@ -22,7 +22,7 @@ Sou técnico em desenvolvimento de sistemas formado pela ETEC.
 
 ## Ferramentas
 <p>
- <img src=https://img.shields.io/badge/gimp-5C5543?logo=gimp&logoColor=white/>
+ <img src=https://img.shields.io/badge/Gimp-5C5543?logo=gimp&logoColor=white/>
  <img src=https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white/>
  
 
