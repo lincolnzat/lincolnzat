@@ -1,3 +1,7 @@
+<p align="center>
+ <img src="banner.png">
+</p>
+
 ## Olá! :smiley:
 Bem-vindo(a) ao meu perfil! 🌤️
 
