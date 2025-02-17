@@ -1,6 +1,5 @@
 <p align="center>
- <img src="https://github.com/lincolnzat/lincolnzat/blob/main/image.jpg?raw=true" width="350">
- 
+ <img src="banner.png?raw=true "Title">
 </p>
 
 ## Olá! :smiley:
