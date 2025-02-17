@@ -1,8 +1,8 @@
-<p style="text-align:center;">## Olá! :smiley:
+## Olá! :smiley:
 Bem-vindo(a) ao meu perfil! 🌤️
 
 Sou técnico em desenvolvimento de sistemas formado pela ETEC.
-</p>
+
 
 ## Linguagens e Frameworks
 <p style="text-align:center;">
