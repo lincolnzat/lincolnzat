@@ -4,7 +4,7 @@ Bem-vindo(a) ao meu perfil! 🌤️
 Sou técnico em desenvolvimento de sistemas formado pela ETEC.
 
 
-## Linguagens e Frameworks
+## Tecnologias
 <p>
  <img src=https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white/>
  <img src=https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white/>
@@ -20,7 +20,8 @@ Sou técnico em desenvolvimento de sistemas formado pela ETEC.
  <img src=https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white/>
  <img src=https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB/>
 </p>
-## Ferramentas
+
+ ## Ferramentas
  <p>
  <img src=https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF/>
  <img src=https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white/>
