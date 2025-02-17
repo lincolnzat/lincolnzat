@@ -1,4 +1,4 @@
-<img src="https://github.com/lincolnzat/lincolnzat/blob/main/banner.png" width="100%">
+<img src="https://github.com/lincolnzat/lincolnzat/blob/main/banner2.png" width="100%">
 
 
 ## Olá! :smiley:
