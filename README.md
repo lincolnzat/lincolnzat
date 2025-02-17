@@ -1,6 +1,5 @@
-<p align="center>
- <img src="/banner.png">
-</p>
+<img src="https://github.com/lincolnzat/lincolnzat/blob/main/banner.png">
+
 
 ## Olá! :smiley:
 Bem-vindo(a) ao meu perfil! 🌤️
