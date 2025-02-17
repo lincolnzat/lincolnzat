@@ -1,5 +1,5 @@
 <p align="center>
- <img src="https://github.com/lincolnzat/blob/main/banner.png">
+ <img src="https://github.com/lincolnzat/blob/main/banner.png" width="350">
 </p>
 
 ## Olá! :smiley:
