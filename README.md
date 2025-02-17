@@ -5,6 +5,7 @@ Sou técnico em desenvolvimento de sistemas formado pela ETEC.
 
 
 ## Linguagens e Frameworks
+<p>
  <img src=https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white/>
  <img src=https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white/>
  <img src=https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white/>
@@ -18,12 +19,13 @@ Sou técnico em desenvolvimento de sistemas formado pela ETEC.
  <img src=https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white/>
  <img src=https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white/>
  <img src=https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB/>
-
+</p>
 ## Ferramentas
+ <p>
  <img src=https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF/>
  <img src=https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white/>
  <img src=https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13/>
- 
+ </p>
 
 
  
