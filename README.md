@@ -1,9 +1,8 @@
 <img src="https://github.com/lincolnzat/lincolnzat/blob/main/banner2.png" width="100%">
 
 
-## Olá! :smiley:
-Bem-vindo(a) ao meu perfil! 🌤️
-
+### Olá! :smiley:
+Bem-vindo(a)!
 Sou técnico em desenvolvimento de sistemas formado pela ETEC. Atualmente cursando ADS na FATEC.
 
 
